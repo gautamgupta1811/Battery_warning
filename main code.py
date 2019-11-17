@@ -7,7 +7,7 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 data = """
 :loop
 start python {}\\Battery_check.py
-Timeout /t 5 /nobreak
+Timeout /t 30 /nobreak
 goto :loop""".format(dir_path)
 
 f = open("battery.txt", "w")
