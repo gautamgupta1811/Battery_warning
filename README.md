@@ -17,10 +17,10 @@ So, this application runs in the background of your system and a message pop-ups
   
 ### **If system is charged to 95%**  
   
-![95%]()  
+![95%](https://github.com/gautamgupta1811/Battery_warning/blob/master/charge.jpeg)  
   
 ### **If system is discharged to 20%**  
-![20%]()  
+![20%](https://github.com/gautamgupta1811/Battery_warning/blob/master/discharge.png)  
 
 ## Technology Stack:    
   
