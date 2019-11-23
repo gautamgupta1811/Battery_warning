@@ -15,11 +15,11 @@ So, this application runs in the background of your system and a message pop-ups
 ## :camera: ScreenShots:  
   
   
-### ** If system is charged to 95%**  
+### **If system is charged to 95%**  
   
 ![95%]()  
   
-### ** If system is discharged to 20%**  
+### **If system is discharged to 20%**  
 ![20%]()  
 
 ## Technology Stack:    
